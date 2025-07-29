@@ -4,7 +4,7 @@
 
 console.log(3+3);
 
-let name = "Dipali"
+let name = "Ayush"
 let age = 43
 let isLoggedIn = false
 
