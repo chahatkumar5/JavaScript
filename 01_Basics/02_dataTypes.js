@@ -4,8 +4,8 @@
 
 console.log(3+3);
 
-let name = "Suraj"
-let age = 23
+let name = "Dipali"
+let age = 43
 let isLoggedIn = false
 
 //number =>2 to power 53
