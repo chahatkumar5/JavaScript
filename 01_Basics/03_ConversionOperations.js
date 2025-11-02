@@ -79,3 +79,12 @@ let now = 5;
 let later = '5';
 console.log(now == later);//check only value not types
 console.log(now === later);// checks both value and dataType
+
+
+let expression = "25" - "5" + "10";
+console.log(expression);
+console.log(typeof expression);
+
+
+let myResult = false + true ;
+console.log(myResult)
